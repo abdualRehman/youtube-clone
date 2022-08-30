@@ -26,5 +26,5 @@ It is a free source code for beginners to learn how to use Rapid API with React
 
 Website Link: [https://youtube-clone-5b.netlify.app](https://youtube-clone-5b.netlify.app).
 
-
+Inspired By JS Mastery
 
